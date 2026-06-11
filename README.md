@@ -1,24 +1,24 @@
-# DecodeLabs Data Analytics Internship Projects
+# DecodeLabs Data Analytics Internship Tasks
 
-This repository contains all projects completed during the DecodeLabs Data Analytics Internship Program (Batch 2026).
+This repository contains all tasks completed during the DecodeLabs Data Analytics Internship Program (Batch 2026).
 
-## Projects Included
+## Tasks Included
 
-### Project 1 — Data Cleaning & Preparation
+### Task 1 — Data Cleaning & Preparation
 
 * Handled missing values
 * Removed duplicates
 * Standardized dataset formats
 * Prepared cleaned dataset for analysis
 
-### Project 2 — Exploratory Data Analysis (EDA)
+### Task 2 — Exploratory Data Analysis (EDA)
 
 * Performed statistical analysis
 * Identified trends and outliers
 * Created data visualizations
 * Generated business insights
 
-### Project 3 — SQL Data Analysis
+### Task 3 — SQL Data Analysis
 
 * Wrote SQL queries using:
 
@@ -29,7 +29,7 @@ This repository contains all projects completed during the DecodeLabs Data Analy
   * COUNT, SUM, AVG
 * Extracted business intelligence from dataset
 
-### Project 4 — Data Visualization & Dashboard
+### Task 4 — Data Visualization & Dashboard
 
 * Created charts and dashboard-style visualizations
 * Analyzed KPIs and sales trends
