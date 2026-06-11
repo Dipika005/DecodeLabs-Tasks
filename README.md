@@ -46,7 +46,4 @@ This repository contains all projects completed during the DecodeLabs Data Analy
 * Google Colab
 * Excel
 
-## Internship
 
-DecodeLabs Industrial Training Program — Batch 2026
-# DecodeLabs-Tasks
