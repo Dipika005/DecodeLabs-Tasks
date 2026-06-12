@@ -13,9 +13,9 @@ The project focuses on extracting meaningful business insights using:
 
 ## Steps Performed
 - Uploaded cleaned Excel dataset in Google Colab
-- 2.Imported required libraries
-- 3.Loaded dataset using Pandas
-- 4.Created SQLite database connection
-- 5.Converted dataset into SQL table
-- 6.Executed SQL queries for analysis
-- 7.Generated insights from query outputs
+- Imported required libraries
+- Loaded dataset using Pandas
+- Created SQLite database connection
+- Converted dataset into SQL table
+- Executed SQL queries for analysis
+- Generated insights from query outputs
