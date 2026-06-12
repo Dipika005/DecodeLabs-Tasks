@@ -1,4 +1,4 @@
-### Task 1 - Data Cleaning & Preparation
+# Task 1 - Data Cleaning & Preparation
 
 ## Objectives
 - Handle missing values appropriately
