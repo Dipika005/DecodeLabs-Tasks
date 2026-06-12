@@ -9,7 +9,7 @@
 
 ## Exploratory Data Analysis Performed
 
-✅ Basic Statistical Analysis
+### ✅ Basic Statistical Analysis
 
 Calculated:
 - Mean
@@ -19,7 +19,7 @@ Calculated:
 - Minimum value
 - Standard deviation
 
-✅ Trend Analysis
+### ✅ Trend Analysis
 
 Performed analysis on:
 - Monthly sales trends
@@ -27,6 +27,6 @@ Performed analysis on:
 -- Highest selling products
 - Revenue distribution
 
-✅ Outlier Detection
+### ✅ Outlier Detection
 
 Used the IQR (Interquartile Range) method to detect unusual transaction values and identify abnormal sales patterns.
