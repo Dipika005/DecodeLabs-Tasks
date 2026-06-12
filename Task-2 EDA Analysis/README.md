@@ -1,13 +1,13 @@
 # Task-2 EDA Analysis
 
-##Objectives
+## Objectives
 - Analyze the dataset using descriptive statistics
 - Identify trends and patterns in sales data
 - Detect outliers in transaction values
 - Visualize important business insights
 - Summarize key findings from the dataset
 
-##📈 Exploratory Data Analysis Performed
+## Exploratory Data Analysis Performed
 
 ✅ Basic Statistical Analysis
 
